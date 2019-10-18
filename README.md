@@ -1,2 +1,3 @@
 # hello-world
 exercice
+I'm learning GitHub, just for wait and see...  
